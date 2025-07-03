@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: nginx
+    image: abhishekkumar0301/gitops-1:864cb4eb853f5ae10fd71c5de252505975525f67
     ports:
     - containerPort: 80
